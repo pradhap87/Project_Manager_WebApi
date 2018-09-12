@@ -16,5 +16,4 @@ C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.D
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.dll
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.pdb
-C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll.CodeAnalysisLog.xml
-C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll.lastcodeanalysissucceeded
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.csprojResolveAssemblyReference.cache

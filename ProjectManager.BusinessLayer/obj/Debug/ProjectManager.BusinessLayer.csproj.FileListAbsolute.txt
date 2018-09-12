@@ -24,5 +24,3 @@ C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.B
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb
-C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.CodeAnalysisLog.xml
-C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.lastcodeanalysissucceeded

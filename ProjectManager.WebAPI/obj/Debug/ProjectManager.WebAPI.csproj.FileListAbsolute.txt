@@ -108,5 +108,3 @@ C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.W
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI\obj\Debug\ProjectManager.WebAPI.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI\obj\Debug\ProjectManager.WebAPI.dll
 C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI\obj\Debug\ProjectManager.WebAPI.pdb
-C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI\bin\ProjectManager.WebAPI.dll.CodeAnalysisLog.xml
-C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI\bin\ProjectManager.WebAPI.dll.lastcodeanalysissucceeded
