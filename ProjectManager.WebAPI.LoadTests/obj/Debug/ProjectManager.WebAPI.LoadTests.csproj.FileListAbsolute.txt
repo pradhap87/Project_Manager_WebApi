@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\bin\Debug\ProjectManager.WebAPI.LoadTests.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\bin\Debug\ProjectManager.WebAPI.LoadTests.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\obj\Debug\ProjectManager.WebAPI.LoadTests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\obj\Debug\ProjectManager.WebAPI.LoadTests.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\obj\Debug\ProjectManager.WebAPI.LoadTests.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.WebAPI.LoadTests\bin\Debug\LoadTest1.loadtest

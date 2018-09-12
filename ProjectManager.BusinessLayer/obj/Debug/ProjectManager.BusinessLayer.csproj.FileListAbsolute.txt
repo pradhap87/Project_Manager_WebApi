@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.config
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataLayer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.config
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataLayer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.CodeAnalysisLog.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.lastcodeanalysissucceeded

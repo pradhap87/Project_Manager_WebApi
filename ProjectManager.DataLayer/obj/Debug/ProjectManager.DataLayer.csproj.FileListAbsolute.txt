@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Final Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.dll
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\obj\Debug\ProjectManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll.CodeAnalysisLog.xml
+C:\Users\Admin\Desktop\Final-Submission\Project_Manager.Service\ProjectManager.DataLayer\bin\Debug\ProjectManager.DataLayer.dll.lastcodeanalysissucceeded
